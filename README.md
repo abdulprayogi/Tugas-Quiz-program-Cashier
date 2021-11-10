@@ -11,7 +11,7 @@
       <ul style="list-style: none;">
       <li>
         <b>Apel : 23.000
-     /kg
+          <small>/kg</small>
       </li>
        <li>
         Pisang : 12.000
