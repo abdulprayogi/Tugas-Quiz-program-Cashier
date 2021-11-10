@@ -1,4 +1,3 @@
-# Tugas-Quiz-program-Cashier
 <html>
   <head>
     <title>Abdul Prayogi</title>
@@ -7,7 +6,7 @@
   <body style="background-color: rgb(236, 223, 229);">
     <center>
 
-    <h2 style="color:"green;"> Daftar Harga Buah-Buahan</h2>
+    <h2 style="color:"green"> Daftar Harga Buah-Buahan</h2>
     
       <ul style="list-style: none;">
       <li>
